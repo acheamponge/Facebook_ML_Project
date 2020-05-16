@@ -1,1 +1,1 @@
-## The code and code structure for this project takes inspiration from Avkash Chauhan's demoapps repo https://github.com/Avkash/demoapps 
+# A decade on Facebook: A Machine Learning Project 
