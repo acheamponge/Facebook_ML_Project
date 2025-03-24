@@ -30,7 +30,6 @@ import src.pages.payments
 import src.pages.photos
 import src.pages.portal
 import src.pages.saved
-import src.pages.voices
 
 
 MENU = {
