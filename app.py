@@ -58,7 +58,6 @@ MENU = {
     "Profile Information" : src.pages.profiles,
     "Saved Items and Collections" : src.pages.saved,
     "Search History" : src.pages.search,
-    "Voice Recording and Transcription" : src.pages.voices,
     "Places" : src.pages.places,
 }
 
