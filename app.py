@@ -23,7 +23,6 @@ import src.pages.pages
 import src.pages.posts
 import src.pages.search
 import src.pages.profiles
-import src.pages.visualization
 import src.pages.resources
 import src.pages.places
 import src.pages.messages
