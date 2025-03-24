@@ -6,7 +6,7 @@ import streamlit as st
 def write():
     udisp.title_awesome("Resources")
 
-    image = Image.open('./img/2.jfif')
+    image = Image.open('./1.jpeg')
 
     st.image(image, use_column_width=True)
     
